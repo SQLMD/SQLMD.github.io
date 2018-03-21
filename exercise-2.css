@@ -1,0 +1,80 @@
+*, h2 {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.container {
+    padding:5px 0 5px 0;
+    margin-top:5px;
+}
+
+.row {
+    margin:0 auto;
+}
+
+  .jumbotron {
+    height: 250px;
+    background: url("images/mplsskyline.jpeg") no-repeat center center;
+    background-size: 100%;
+    text-align: right;
+    margin: 5px 0 5px 0;
+    padding: 10px 0 200px 0;
+  }
+
+  a {
+      color: inherit;
+      text-decoration: none;
+  }
+
+  #cc {
+      border:3px solid steelblue;
+      border-radius: 15px;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+
+  nav {
+      background-color: steelblue;
+      color:white;
+      font-weight: 200;
+      border-radius: 15px;
+  }
+  
+  #bio {
+    padding-top: 10px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
+  }
+
+  .col-sm-3 {
+      padding:0;
+  }
+
+  .img-rounded {
+      height: 300px;
+      width: 100%;
+  }
+
+  .img-thumbnail {
+      height: 4em;
+
+  }
+
+  h5 {
+      text-align: center;
+  }
+
+
+  footer {
+      height: 40px;
+      background-color: steelblue;
+      margin-bottom:5px;
+      border-radius: 15px;
+  }
+
+ 
+
